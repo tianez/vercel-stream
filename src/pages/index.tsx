@@ -19,7 +19,6 @@ const Page = () => {
                     if (value) {
                         const char = decoder.decode(value)
                         console.log(char)
-                        console.log(char)
                         if (char == 5) {
                             reader.cancel()
                         }
