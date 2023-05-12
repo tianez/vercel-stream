@@ -1,0 +1,9 @@
+.btn {
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  background: #0ea5e9;
+  color: #fff;
+  cursor: pointer;
+}
